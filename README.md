@@ -12,7 +12,7 @@ The application features includes:
 ![screenshot](app_screenshot.png)
 
 ## Live Demo
-[Live Demo](https://car-rentals-react.herokuapp.com/)
+[Live Demo]()
 
 
 ## Getting Started
@@ -26,7 +26,7 @@ Make sure Node.js is running on your local machine
 ### Setup
 
 ~~~bash
-$ git clone https://github.com/tGodson/car-rental-react.git
+$ git clone https://github.com/saikatgpae/GTG-cab.git
 $ cd rcar-rental-react
 ~~~
 
@@ -34,6 +34,7 @@ Install modules:
 
 ```
 yarn add
+npm install
 ```
 
 ### Usage
@@ -64,21 +65,19 @@ Fire up your app by running `heroku open` Yay!!! your app has been deployed succ
 
 👤 **Tendongze Godson**
 
-- Email: [Email](tendongzegodson@gmail.com)
-- Github: [tGodson](https://github.com/tGodson)
-- Twitter: [@tendongze95](https://twitter.com/tendongze95)
-- Linkedin: [tendongzegodson](https://www.linkedin.com/in/tendongzegodson)
+- Email: [Email](saikatgpae@gmail.com)
+- Github: [saikat](https://github.com/saikatgpae)
+- Linkedin: [saikat](https://www.linkedin.com/in/saikatgpae/)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/tGodson/car-rental-react/issues).
+Feel free to check the [issues page]().
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-- [Microverse Inc](https://www.microverse.org/)
-- [Design Inspiration](https://www.behance.net/gallery/37706679/Circle-(Landing-page-Dashboard-Mobile-App)), Design Idea by [Alexey Savitskiy on Behance](https://www.behance.net/alexey_savitskiy)
+
+
