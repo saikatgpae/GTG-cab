@@ -66,8 +66,8 @@ Fire up your app by running `heroku open` Yay!!! your app has been deployed succ
 👤 **Tendongze Godson**
 
 - Email: [Email](saikatgpae@gmail.com)
-- Github: [tGodson](https://github.com/saikatgpae)
-- Linkedin: [tendongzegodson](https://www.linkedin.com/in/saikatgpae/)
+- Github: [saikat](https://github.com/saikatgpae)
+- Linkedin: [saikat](https://www.linkedin.com/in/saikatgpae/)
 
 ## 🤝 Contributing
 
