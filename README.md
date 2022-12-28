@@ -62,7 +62,7 @@ Fire up your app by running `heroku open` Yay!!! your app has been deployed succ
 
 # Author
 
-👤 **Tendongze Godson**
+👤 **Saikat Chakraborty**
 
 - Email: [Email](saikatgpae@gmail.com)
 - Github: [saikat](https://github.com/saikatgpae)
