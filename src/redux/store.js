@@ -6,4 +6,4 @@ import rootReducer from './rootReducer';
 
 const store = configureStore(rootReducer, composeWithDevTools(applyMiddleware(thunk)));
 // const store = configureStore(rootReducer, composeWithDevTools(applyMiddleware(thunk)));
-export default store;
+// export default store;
